@@ -38,7 +38,7 @@ h2 {
     width: 80%;
     margin: 30px auto;
     padding: 10px 20px;
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
     /* border: 2px solid rgb(175, 175, 175); */
     border: none;
     border-radius: 5px;
