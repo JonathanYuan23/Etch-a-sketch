@@ -1,4 +1,3 @@
-
 const sketchPad = document.querySelector('#sketch-pad');
 let mouseDown = 0;
 
@@ -13,7 +12,7 @@ function initialize(width) {
                 mouseDown = !mouseDown;
             });
             item.addEventListener('mouseover', () => {
-                if(mouseDown) item.style.backgroundColor = 'rgb(50, 50, 50)';
+                if (mouseDown) item.style.backgroundColor = 'rgb(50, 50, 50)';
             });
             sketchPad.appendChild(item);
         }
