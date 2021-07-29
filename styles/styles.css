@@ -9,11 +9,13 @@ html {
 }
 
 h1 {
+    margin: 10px 0;
     font-size: 3rem;
     font-weight: 900;
 }
 
 h2 {
+    margin: 10px 0;
     color: rgba(0, 0, 0, 0.2);
     font-size: 2rem;
     font-weight: 700;
@@ -31,8 +33,31 @@ h2 {
 
 /* options */
 
-#options > * {
-    margin: 10px 0;
+.btn {
+    display: block;
+    width: 80%;
+    margin: 30px auto;
+    padding: 10px 20px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+    /* border: 2px solid rgb(175, 175, 175); */
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+    color: inherit;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 400;
+    transition: all 100ms ease-in-out;
+}
+
+.btn:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    background-color: rgb(235, 235, 235);
+}
+
+.btn:active {
+    background-color: rgb(225, 225, 225);
 }
 
 /* sketch pad */
