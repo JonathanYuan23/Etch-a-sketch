@@ -67,8 +67,6 @@ h2 {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
     background-color: rgb(250, 250, 250);
     display: grid;
-    grid-template-columns: repeat(16, 1fr);
-    grid-template-rows: repeat(16, 1fr);
     transition: all 100ms ease-in-out;
 }
 
