@@ -3,3 +3,4 @@
 - dynamic css grid sizing
 ## Todo 
 - [ ] refactor code 
+- [ ] mobile responsive
