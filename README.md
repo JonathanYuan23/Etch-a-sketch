@@ -1,4 +1,4 @@
-# etch-a-sketch
+# Etch-a-sketch
 - simulating an 'etch-a-sketch'
 - dynamic css grid sizing
 ## Todo 
