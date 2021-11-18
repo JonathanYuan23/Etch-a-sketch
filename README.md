@@ -4,3 +4,5 @@
 ## Todo 
 - [ ] refactor code 
 - [ ] mobile responsive
+- [ ] lighten/darken mode
+- [ ] color picker
